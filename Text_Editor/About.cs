@@ -38,7 +38,7 @@ namespace Text_Editor
         private void VisitLink()
         {
             linkLabel1.LinkVisited = true;
-            var ps = new ProcessStartInfo("http://www.google.com")
+            var ps = new ProcessStartInfo("https://github.com/Kenshin299/Text_Editor")
             {
                 UseShellExecute = true
             };

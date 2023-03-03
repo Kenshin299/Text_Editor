@@ -73,15 +73,15 @@
   <data name="openToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAHYSURBVEhLrZS9SgNBFIXzBOIj+AKCLyD4CIKtgr2NtqbR
-        Uqu1jFgoWGihiIVEixAM+FMYLMRAkEQDRjQhiZqfcpxvnLtsdpOwyebCYZOde8+5c8/MxgZFs9mc0Xjl
-        aV+NLyBtt9sNDcVzrCJCfpd7VxNLBypx+WREWq3WvE2JFp1OZ5nOjzN5FVvYM7AiijWbFj4s4ZnuPC2g
-        YwghjiSiCxyKBLlSRSUfil1YdFKjiwgx856Nn7tEg0AuNaE8IfGj2jBmUjy9dqLih/ddWNnNuOTsRprS
-        ePSO1Y7W0bubsvT/Atun2V7FBogj6l0vZ49UtXCr6uVcF76/ilLXcEV4ITNm3jbBoBf5b62sXi7W++Lt
-        esfk6fFtuAKMARIxUNBvZ3T/+ZwMoJjaMiI2z3EF6BwiuVR0LmR+0UEo3SRcga4dAIgQAf5RhUVfAbaH
-        QRw/xsVd8BaGhVdAnyg+kmkj4F0wiz+1wAkJAwyGh98cBrh6CmAi/6Ogkk/3F5BOooApaB/2AwJ44U8e
-        FlxEuPRlmwsIsOgvGBZ4gMnuKRIBtlW42gwUDAMuG5x6PKsBgXGaW6/XJ0WgIWMZq7kSWsDhpf+7MgqY
-        AN0bcyXYCtcaU1iMCtdcE7HYH0a977S7I6Y7AAAAAElFTkSuQmCC
+        YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAHYSURBVEhLrVTLSsNAFM0XiJ/gDwj+gOAnCG4V3LvRrd3o
+        UldxWXGh4EIXiriQ6qIUCz4WFhdioEijBVu0pYkmaZfjnHHukGdJmlw4pM3ce86de2aijQvXdeccx3nH
+        U74qLkA6HA5tDoZnoSJE/mB8sqmVI1a+fhEinuctypR8MRqNVtH5ab3JtKUDASnCsCbT0ockvOCd1wjo
+        GIQgziXCC3QUEYx2j1WezACW9erkIkSMec+XLhXROCAXNak8QWK3bwszUTy7ccZKx48BrO3XFTl2Q01x
+        PPvHKker893NSPp/gd3zRlyxAMQh6l/vNE5Yv3XPrI4RwM+3SXW2EsELmjHmLRME4sidQYe9XW0m4uN2
+        T+Tx8W0pAYwBJGQgIWln6P7rtRKBWd0RIjJPVwLoHER0qdA5kYVFx6F9V1YCgR0AIIIIEB5VWiQKYHsw
+        CMcP48Jd8BemhV9AfiRrQsC/ALi/g8gJSQMYDB78xmEAV6wATMT/POg1a8kC1EkeYArch8OIALwIJ2cF
+        LiK4+GVbiAhgMVyQFcIDbrI6RSSAbbVutiMFWYDLBk4+nvWIQJHmWpY1TQI2jaVQcym4gI6X4e/KJMAE
+        0L0wlwJbwbWGKVjMC2WuCE37Axly76WtB8BvAAAAAElFTkSuQmCC
 </value>
   </data>
   <data name="saveToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -97,17 +97,17 @@
   <data name="cutToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAItSURBVEhLnZa/TgJBEMZ5BB/BR/AZ6EksKU3oCY9wDQ02
-        YCkUdEQaDC2GWEJn1E4N9hR3Jvwpz/1tZta95Q4OJ5l4znzf7Mzs7IRKnsRxfLHb7V6MppvN5lvMB4IP
-        DFg4Yj4uGny9XqfT6RRyut/vb8TtBBs+MGDNYc/iOi7b7bYFsd1up9VqNV2tVrlVYMMHBqwkcinuYjEH
-        DAFDDMiuCs1ek0D533AjgRSLVlCv1x05rMLPHgUrB7QEUiyUCXgwGLgAfhV52YMV/+kWIVwYF1er1VwQ
-        rSLMHsxZl4wY8FVRFWH2o9HovOxV9LLDuyjo/VBo5UXeQzKfz11AMvezxwem9CMLhbEjw2az6YKqYpPs
-        T49mkeTdheq/e++LjqRO02KxtMq3VgBG4OWEjCgbZfT0Ujud2zSJf6z2enfWxgFgFH+yGkPoQgqVYOhs
-        9uQqQJn/HHxXwmUFBwC2o7aEv41GwwUMlTH1sbp9Dw6hNA0OOIqidDJ5TPv3fReAg5bLpVWdKnzjh7HF
-        wsHmrfi/dtE/jBAAaq/Rt9d3S5SZt6pv4/PjK4OFSwwwxJTw2RVNNj4Jxa4LDdWxDXFwsecdYCvASckh
-        sewBcHMPYJYx0ltK9EtnPCHRezOSdpvyjc0fXThwC98HRMYub2r04kxW15qMDoSvcGV1H/5QMEbWQgKA
-        NUAbULKV4G5j8o0Nn+LgyLtIiCXQrDBaSlYlGzIXiBMqwedj4RJDIEYqlV9xfV9DOpbyYgAAAABJRU5E
-        rkJggg==
+        YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAIrSURBVEhLnZS/TgJBEMZ5BB/BR/AZ6EksKU3oCY9wDQ02
+        YCkUdEQaDC2GWHKdUTs12FPcGf6V5/0uM8vesgenXzLhmPm+2Znd2a34EEXRxW63e0ktWa/X3+I+AjE4
+        cNGI+zQ0+Wq1SqbTKeJkv9/fSNgAHzE4cDebzbOETmO73bYQttvtpFqtJsvl0tsFPmJw4EohlxIuRrrA
+        EDJCR2y60Oq1CIz/qTYQSjG0g3q9bsRuF3b1GFxZoCWUYtAm5MFgYBLYXfiqhyvx81sEODAOrlarmSTa
+        hVs9nD8dMkjJV0VduNWPRqO/Va/Qw3bPomDvhyIrD7kP8Xw+Nwmp3K6eGJzSl8wFY0eFzWbTJFXDJ9Wf
+        H80i+M5C7d97b0NHUqdpsQgz41s7gCP0cqAi2sYYPT3UTuc2iaOfzHq9u8zHAnCUf7abVNBF5BrJsNns
+        yXSAMf8eflfS5UEAAq+jbgm/jUbDJHSNMbW5+voeLUJrmhxyEATJZPKY9O/7JgELhWGYmU4VsfHDOOOi
+        wWc98YftYv9wIoCoe429vb5nQpn5zPRufH585bhoyQGHnJI+/0RTjS3C8OuDhunYujy0+H0LZB0QpGVX
+        WHYBtN4FmGWc7C0t2q0znojYe31N+cZnjy4atIX3AyFj55saPbi0qmstRgfCNrTkIJekPUCehRgCzwDb
+        gFGtJDcvJt/4iCkPjdyLmFxCzYPRUrEa1VC5UAzohJjNRUsOoaSoVH4BqCZfGbRJU5UAAAAASUVORK5C
+        YII=
 </value>
   </data>
   <data name="copyToolStripMenuItem.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
