@@ -70,7 +70,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(130, 32);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Version 1.0";
+            this.label3.Text = "Version 1.1";
             // 
             // linkLabel1
             // 
